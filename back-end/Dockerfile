@@ -10,4 +10,4 @@ COPY . .
 
 Expose 3000
 
-CMD [ "npm", "index.js" ]
+CMD [ "npm", "start" ]
